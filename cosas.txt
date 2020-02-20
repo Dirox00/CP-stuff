@@ -1,0 +1,11 @@
+PROGRAMAS:
+- Primos
+- Números romanos
+- Dijkstra's
+- Path finding
+
+TEORÍA:
+- re
+- itertools
+- collections
+- functools
